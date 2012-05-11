@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>FC Demo Application</name>
-  <description>This is my demo application for the Cloud Development module</description>
+  <description>This is my demo application for the cloud development module</description>
   <dependencies>
   <dependency>
 			<groupId>junit</groupId>
