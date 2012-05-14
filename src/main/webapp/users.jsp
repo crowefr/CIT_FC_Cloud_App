@@ -7,7 +7,7 @@
 <body>
 	<div id="head">
 		<h1>
-			<b>Input Software Details Here </b>
+			<b>Enter Your Username, Password, and e-mail </b>
 		</h1>
 		<p><%=new java.util.Date()%></p>
 	</div>
@@ -20,19 +20,19 @@
 		</table>
 	</div>
 	
-		<h2>Search for Software Asset</h2>
+		<h2>Enter Your Details</h2>
 		<form method="post">
 		<table>
 				<tr>
-					<td>Software Name:</td>
+					<td>Firstame:</td>
 					<td><input name="firstName"></td>
 				</tr>
 				<tr>
-					<td>Type:</td>
+					<td>Surname:</td>
 					<td><input name="surname"></td>
 				</tr>
 				<tr>
-					<td>Licence No:</td>
+					<td>e-mail:</td>
 					<td><input name="email"></td>
 				</tr>
 				<tr>
@@ -47,14 +47,14 @@
 			
 			<table border=4>
 				<tr>
-					<td>Name</td>
-					<td>Version</td>
-					<td>Licence No</td>
+					<td>First Name</td>
+					<td>Surname</td>
+					<td>e-mail</td>
 				</tr>
 				<tr>
-					<td>MS Office</td>
-					<td>Office 10</td>
-					<td>12345vxtq1</td>
+					<td>Joe</td>
+					<td>Bloggs</td>
+					<td>joe@spring.ie</td>
 				</tr>
 			</table>
 			
@@ -65,14 +65,14 @@
 			
 			<table border=4>
 				<tr>
-					<td>Name</td>
-					<td>Version</td>
-					<td>Licence No</td>
+					<td>Mary</td>
+					<td>Bloggs</td>
+					<td>mary@spring.ie</td>
 				</tr>
 				<tr>
-					<td>SpringSource </td>
-					<td>2.9.1</td>
-					<td>Free</td>
+					<td>Tom</td>
+					<td>Jones</td>
+					<td>Tom@spring.ie</td>
 				</tr>
 			</table>
 			

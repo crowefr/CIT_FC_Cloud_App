@@ -10,7 +10,7 @@
 <body>
 	<div id="head">
 		<h1>
-			<b>Software Asset Management Inventory</b>
+			<b><i>London Olympics 2012</i></i></b>
 		</h1>
 		<p><%=new java.util.Date()%></p>
 		<a href="login.jsp">Login</a>
@@ -26,8 +26,8 @@
 	
 	<div id="body">
 	<div id="content">
-	<h3>Welcome to the CIT Software Assest Management System</h3>
-	<p>Check to see if we have a particular software item</p>		
+	<h3>Welcome to the Athletics Page</h3>
+	<p>Search Our Database And Build your Dream Track Team</p>		
 	</div>
 	</div>
 	<div id="footer">
